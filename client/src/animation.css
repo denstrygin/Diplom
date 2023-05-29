@@ -1,0 +1,27 @@
+.transAddition {
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+}
+
+.animModalWindow {
+    transform: translateX(-40vh);
+    -webkit-transform: translateX(-40vh);
+    -o-transform: translateX(-40vh);
+    -moz-transform: translateX(-40vh);
+}
+
+.unModel {
+    transform: translateY(-100vh);
+    -webkit-transform: translateY(-100vh);
+    -o-transform: translateY(-100vh);
+    -moz-transform: translateY(-100vh);
+}
+
+.spModel {
+    transform: translateY(100vh);
+    -webkit-transform: translateY(100vh);
+    -o-transform: translateY(100vh);
+    -moz-transform: translateY(100vh);
+}
